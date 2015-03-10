@@ -1,4 +1,7 @@
 # drunken-wight
+Drunken Wight Example
+==================================================================
+
 Throwaway git Repository Tutorial
 
 Learning git and SourceTree through trial and error.
